@@ -1,6 +1,6 @@
 
     // ==UserScript==
-    // @name        facebook user style
+    // @name        Facebook User Style
     // @namespace   https://github.com/pedrogimenez/facebook-user-style
     // @version     1.0
     // @match       *://facebook.com/*
